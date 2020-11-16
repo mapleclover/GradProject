@@ -1,0 +1,9 @@
+﻿주인공:You see that Lich?
+루나:Yes.
+주인공:That thing do not appear here.
+주인공:I never saw it near my town for my life.
+주인공:Dragon that you are talking about has to do with this situation.
+루나:That's probably true. Lich is usually mesmerized by force that dragon emits.
+루나:If we are going to fight against Lich, we gotta finish it off ASAP!
+주인공:Alrighty!
+End

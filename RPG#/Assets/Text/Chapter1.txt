@@ -1,0 +1,4 @@
+﻿주인공:Hmm, What a boring day...
+주인공:Oh! What the..?
+주인공:I gotta help!
+End

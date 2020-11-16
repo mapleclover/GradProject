@@ -1,0 +1,25 @@
+﻿주인공:Are you Okay?
+루나:Yes. Thank You.
+주인공:Why are you wondering around in this dangerous forest?
+루나:Because there is something that I must do!!
+주인공:Do you mind if I ask what that important task is?
+루나:I have to defeat Dragon. Supposedly, seems like it appears around here.
+주인공:Why do you have to risk your life?
+주인공:You can't even defeat that weak slime!!
+루나:Oh, it caught me by surprise.
+루나:Only if I knew it was coming. It would be piece of cake.
+루나:I am way stronger than you can imagine.
+주인공:Oh! Really?
+주인공:Well, Dragon is something that you don't see everyday.
+주인공:(Only If I can slay that dragon. I definitely can get famous!)
+주인공:Alright, I will defeat that dragon for you.
+루나:No! Wait! Take me with you!
+선택지:Okay!:No, it's dangerous!
+주인공:Okay!
+루나:Thanks, I promise I won't be your burden.
+End
+주인공:No, it's too dangerous!
+루나:I can help with my magic.
+루나:I know some information about that dragon and learned skill that can help.
+주인공:Alright them, just stay behind me though.
+End
